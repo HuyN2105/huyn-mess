@@ -1,0 +1,98 @@
+{
+	"Conversations": {
+		"Conversation-0": {
+			"ConversationName": "The first ever conversation on this app.",
+			"UserList": ["0", "1"],
+			"Messages": [
+				{
+					"id": "0",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "4",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "5",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "6",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "7",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "8",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "9",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "10",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "11",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "12",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "13",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "14",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "15",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},{
+					"id": "16",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message sent by user 0 to first ever conversation."
+				},
+				{
+					"id": "1",
+					"SenderId": "1",
+					"MessageContent": "And this is another user's message sent by user 1."
+				},
+				{
+					"id": "2",
+					"SenderId": "1",
+					"MessageContent": "Again, another user1's initial message sent by user 1."
+				},
+				{
+					"id": "3",
+					"SenderId": "1",
+					"MessageContent": "And this is another user's initial message sent by user 1."
+				}
+			]
+		},
+		"Conversation-1": {
+			"ConversationName": "The second conversation that ever created.",
+			"UserList": ["0", "2"],
+			"Messages": [
+				{
+					"id": "0",
+					"SenderId": "0",
+					"MessageContent": "Hi, this is the initial message for conversation id 1 from user 0."
+				},
+				{
+					"id": "1",
+					"SenderId": "2",
+					"MessageContent": "And this is user 2's initial message."
+				}
+			]
+		}
+	}
+}
